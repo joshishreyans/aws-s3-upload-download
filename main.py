@@ -1,5 +1,5 @@
 import boto3
-from pprint import pprint
+
 print("Welcome to S3 uploader and downloader, press 1 for upload and press 2 for download")
 choice = int(input())
 
